@@ -1,5 +1,4 @@
-![WhatsApp Image 2026-02-21 at 9 16 37 PM](https://github.com/user-attachments/assets/bf282f6d-ea94-4e65-9291-19b1d9807ed5)
-
+![project1](https://github.com/user-attachments/assets/08fbe26d-78d2-4bc1-b71d-29fcc769e509)
 # 🛡 Project 1 – Windows Failed Login Monitoring
 
 ## Objective
