@@ -1,3 +1,4 @@
+![project4](https://github.com/user-attachments/assets/47ffc865-df51-451e-972b-e1153f7d9d0c)
 # 👑 Project 4 – Local Admin Account Creation Detection
 
 ## Objective
