@@ -1,3 +1,4 @@
+![Advanced project](https://github.com/user-attachments/assets/5e11db4b-a873-49ab-8b0e-5200673f856a)
 # 🔥 Advanced Project – End-to-End Attack Chain Detection
 
 ## Objective
