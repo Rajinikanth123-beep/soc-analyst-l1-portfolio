@@ -1,3 +1,4 @@
+![project2](https://github.com/user-attachments/assets/42f92c37-c3bf-4091-80a2-12525ae5f1de)
 # 🚨 Project 2 – Brute Force Detection
 
 ## Objective
